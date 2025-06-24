@@ -12,3 +12,4 @@ hdfs
 Pillow
 torch
 torchvision
+plotly
