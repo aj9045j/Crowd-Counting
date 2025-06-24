@@ -1,0 +1,14 @@
+
+opencv-python-headless 
+numpy 
+kafka-python 
+ultralytics
+kafka-python
+
+opencv-python
+numpy
+matplotlib
+hdfs
+Pillow
+torch
+torchvision
